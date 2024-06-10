@@ -1,6 +1,8 @@
 # QR-Code-Component-Card-using-HTML-CSS
 Front End Mentor Challange
 
+Live Site: https://yess-vzo.github.io/QR-Code-Component-Card-using-HTML-CSS/ 
+
 
 The following repository contains an activity for the Frontend Mentor platform, in the “challenges” category.
 The objective of the challenge was to develop a component that includes a QR code and make it look as similar as possible to the provided design.
