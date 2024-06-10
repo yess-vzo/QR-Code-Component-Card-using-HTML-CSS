@@ -12,7 +12,7 @@ body {
   width:300px;
   border-radius: 19px;
   margin: auto;
-  margin-top: 70px;
+  margin-top: 10%;
   padding: 16px;
   display: flex;
   flex-direction: column;
